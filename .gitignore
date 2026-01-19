@@ -1,0 +1,33 @@
+# Środowisko wirtualne
+.venv
+venv
+
+# PyCharm  IntelliJ
+.idea
+
+# Pliki tymczasowe Pythona
+__pycache__
+.py[cod]
+.pyo
+.pyd
+.pyc
+
+# Logi i pliki robocze
+.log
+.tmp
+
+# Pliki środowiskowe
+.env
+.env.
+
+# Kompilacje i pakiety
+dist
+build
+.egg-info
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Systemowe
+.DS_Store
+Thumbs.db
